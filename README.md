@@ -1,1 +1,1 @@
-This is a game
+This game picks a tandom card from a standard deck
